@@ -71,4 +71,5 @@ This innovative approach aims to enhance marine environmental monitoring, provid
   pip install requirements.txt
 
 Training and testing parts are placed on underwater.ipynb file
+For privacy reasons, we cannot add api code, you can contact us for dataset.
 
